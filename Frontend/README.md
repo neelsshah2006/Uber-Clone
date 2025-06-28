@@ -10,7 +10,6 @@ A modern ride-sharing application frontend built with React, Vite, and Tailwind 
 - Real-time ride booking
 - Location search and selection
 - Vehicle type selection (car, auto, moto)
-- Live ride tracking
 - Ride history and profile management
 
 ### For Captains (Drivers)
