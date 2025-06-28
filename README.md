@@ -10,11 +10,9 @@ This Uber Clone is a full-stack application that replicates the core functionali
 
 - **Dual User System**: Separate authentication and interfaces for riders and drivers (captains)
 - **Real-time Communication**: Live updates using Socket.IO for ride requests, tracking, and notifications
-- **Geolocation Services**: Integration with mapping services for location search and navigation
+- **Geolocation Services**: Integration with mapping services for location search.
 - **Secure Authentication**: JWT-based authentication with HTTP-only cookies
 - **Responsive Design**: Mobile-first approach with modern UI/UX
-- **Live Ride Tracking**: Real-time location updates during rides
-- **Payment Integration Ready**: Structured for payment gateway integration
 
 ## 🏗️ Architecture
 
@@ -53,7 +51,6 @@ Uber Clone/
 - **Database**: MongoDB with Mongoose 8.15.0
 - **Authentication**: JWT with bcrypt encryption
 - **Real-time**: Socket.IO 4.8.1
-- **Security**: Helmet, CORS, Rate Limiting
 - **Validation**: Express Validator 7.2.1
 
 ## 🚀 Quick Start
